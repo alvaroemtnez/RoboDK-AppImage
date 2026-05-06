@@ -27,6 +27,7 @@ Type=Application
 Name=RoboDK
 Exec=AppRun %U
 Icon=logo-robodk
+Comment=RoboDK is a complete solution to simulate and program robot arms offline for robot manufacturing and automation
 Terminal=false
 Categories=Graphics;Engineering;
 MimeType=x-scheme-handler/robodk;application/x-rdk;application/x-robot;application/x-tool;application/x-rdkp;model/step;model/iges;model/stl;model/vrml;application/x-3ds;application/x-tgif;text/csv;text/plain;text/x-gcode;application/x-cnc;text/x-abb-rapid;text/x-urscript;
