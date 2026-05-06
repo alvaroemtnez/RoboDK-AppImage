@@ -1,5 +1,6 @@
 # RoboDK AppImage
 This repo provides instructions to package RoboDK from the official Ubuntu installer into an AppImage, with support for the Robot Library and double-click to open .rdk files.
+Tested for versions: 6.0.0
 
 ## Packaging RoboDK as an Appimage
 1. First, download everything we need:
